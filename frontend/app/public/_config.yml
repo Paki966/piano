@@ -1,6 +1,6 @@
-title: "frontend_template"
-description: "A Template For Frontend Development."
-baseurl: "/frontend_template"
+title: "piano"
+description: "A Simple Browser-Based Piano."
+baseurl: "/piano"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
