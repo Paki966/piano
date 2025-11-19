@@ -1,11 +1,10 @@
 # [Piano](https://github.com/europanite/piano "Piano")
 
+[![GitHub Pages](https://github.com/europanite/piano/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/piano/actions/workflows/deploy-pages.yml)
+
 !["Piano"](./assets/images/web_ui.png)
-<!-- !["phone_ui"](./assets/images/phone_ui.png) -->
 
-## PlayGround
-
- [Piano](https://europanite.github.io/piano/)
+ [PlayGround](https://europanite.github.io/piano/)
 
 A simple browser-based piano.
 
