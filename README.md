@@ -1,6 +1,7 @@
 # [Piano](https://github.com/europanite/piano "Piano")
 
 [![CI](https://github.com/europanite/piano/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/piano/actions/workflows/ci.yml)
+[![docker](https://github.com/europanite/piano/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/piano/actions/workflows/docker.yml)
 [![GitHub Pages](https://github.com/europanite/piano/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/piano/actions/workflows/deploy-pages.yml)
 
 !["Piano"](./assets/images/web_ui.png)
